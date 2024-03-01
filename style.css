@@ -296,6 +296,8 @@ h3 {
     display: inline-flex;
     justify-content: center;
     align-items: center;
+    font-size: 30px;
+    color: black;
     width: 5rem;
     height: 5rem;
     border-radius: 50%;
