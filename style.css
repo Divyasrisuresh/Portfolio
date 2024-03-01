@@ -424,8 +424,7 @@ h3 {
         flex-direction: column-reverse;
     }
     .home-img img {
-        display: none;
-        width: 60%;
+        display: block;
         height: 30rem;
     }
     .home-content{
